@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionDemo", "ReflectionDemo\ReflectionDemo.csproj", "{30F9AC7B-D3CE-4CCF-9564-0735A6F40070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attrib", "Attrib\Attrib.csproj", "{83F35301-66DD-4FFF-AFC5-B6C77E9DC49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAttribute", "CustomAttribute\CustomAttribute.csproj", "{6FB0EBCC-2318-4DD8-AD6A-ADDA147E4FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F9AC7B-D3CE-4CCF-9564-0735A6F40070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F9AC7B-D3CE-4CCF-9564-0735A6F40070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F9AC7B-D3CE-4CCF-9564-0735A6F40070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F9AC7B-D3CE-4CCF-9564-0735A6F40070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F35301-66DD-4FFF-AFC5-B6C77E9DC49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F35301-66DD-4FFF-AFC5-B6C77E9DC49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F35301-66DD-4FFF-AFC5-B6C77E9DC49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F35301-66DD-4FFF-AFC5-B6C77E9DC49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB0EBCC-2318-4DD8-AD6A-ADDA147E4FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB0EBCC-2318-4DD8-AD6A-ADDA147E4FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB0EBCC-2318-4DD8-AD6A-ADDA147E4FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB0EBCC-2318-4DD8-AD6A-ADDA147E4FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
